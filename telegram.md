@@ -7,6 +7,20 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/29 02:22
+---
+
+## FarsiVOA — post 218101
+
+<div align="center">
+  <a href="telegram/content/FarsiVOA_218101_1779144748.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️پزشکیان زیر تیغ گرانی؛ دولت بی‌اختیار در سایه سپاه و جنگ؟
+@FarsiVOA
+</div>
+
+---
 📅 بروزرسانی: 1405/02/29 02:12
 ---
 
