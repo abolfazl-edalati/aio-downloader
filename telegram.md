@@ -7,6 +7,241 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/28 20:33
+---
+
+## VahidOOnLine — post 240829
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_240829_1779123820.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اسکات بسنت، وزیر خزانه‌داری ایالات متحده، دوشنبه گفت که آمریکا در حال صدور یک مجوز عمومی ۳۰ روزه برای فراهم کردن دسترسی موقت به آن بخش از نفت روسیه‌ است که در دریا سرگردان مانده است.
+
+بسنت در شبکه ایکس نوشت: «این تمدید، انعطاف‌پذیری بیشتری فراهم خواهد کرد و ما با این کشورها همکاری خواهیم کرد تا در صورت نیاز، مجوزهای مشخص صادر کنیم.»
+
+او افزود: «این مجوز عمومی به ثبات بازار فیزیکی نفت خام کمک خواهد کرد و اطمینان می‌دهد که نفت به آسیب‌پذیرترین کشورهای از نظر انرژی برسد.»
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 240828
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_240828_1779123821.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‌
+نهاد« مدیریت آبراه خلیج فارس» با راه‌اندازی حساب کاربری در شبکه ایکس اعلام کرد عبور کشتی‌ها از تنگه هرمز بدون دریافت مجوز از این نهاد «غیرقانونی» خواهد بود.
+
+این نهاد که با نام PGSA معرفی شده، در بیانیه‌ای نوشت تردد در محدوده‌های تعیین‌شده در تنگه هرمز باید با هماهنگی کامل با نیروهای مسلح و مقام‌های جمهوری اسلامی انجام شود.
+
+در این بیانیه آمده است: «عبور بدون مجوز، غیرقانونی تلقی خواهد شد.»
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## WithYashar — post 11564
+
+<div align="center">
+  <a href="telegram/content/WithYashar_11564_1779123821.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+داماد صداسیمایی تروریستس : مهریه زنم پهپاده
+@withyashar
+</div>
+
+## FoxNewsTwitter — post 341879
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341879_1779123823.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+WATCH: Secretary Hegseth leads the re-enlistment of 190 soldiers at Fort Campbell.
+
+The ceremony brought hundreds together as troops raised their right hands and committed to another chapter of service to the country.
+</div>
+
+## DEJradio — post 4709
+
+<div align="center">
+  <a href="telegram/content/DEJradio_4709_1779123825.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👑🎥 مراسم یادبود سامان دل‌آرام؛ "از خون جوانان وطن لاله دمیده"
+
+#خون_جوانان_وطن #دی۱۴۰۴
+@DEJradio
+</div>
+
+## IranIntlTV — post 337814
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_337814_1779123827.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اسکات بسنت، وزیر خزانه‌داری ایالات متحده، دوشنبه گفت که آمریکا در حال صدور یک مجوز عمومی ۳۰ روزه برای فراهم کردن دسترسی موقت به آن بخش از نفت روسیه‌ است که در دریا سرگردان مانده است.
+
+بسنت در شبکه ایکس نوشت: «این تمدید، انعطاف‌پذیری بیشتری فراهم خواهد کرد و ما با این کشورها همکاری خواهیم کرد تا در صورت نیاز، مجوزهای مشخص صادر کنیم.»
+
+او افزود: «این مجوز عمومی به ثبات بازار فیزیکی نفت خام کمک خواهد کرد و اطمینان می‌دهد که نفت به آسیب‌پذیرترین کشورهای از نظر انرژی برسد.»
+https://iranintl.com/202605188532
+</div>
+
+## IranIntlTV — post 337813
+
+<div align="center">
+  <a href="https://t.me/IranintlTV/337813" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎧نسخه صوتی اخبار شبانگاهی | دوشنبه ۲۸ اردیبهشت
+@iranintlTV
+</div>
+
+## Shin_Persian — post 6064
+
+<div align="center">
+  <a href="telegram/content/Shin_Persian_6064_1779123828.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+U.S. Central Command ✓ @CENTCOM
+Mon, 18 May 2026 17:00:05 UTC
+
+CENTCOM continues to strictly enforce the U.S. blockade against Iranian ports. U.S. forces have now redirected 85 commercial vessels to ensure full compliance.
+
+فارسی
+
+سنتکام (ستاد فرماندهی مرکزی ایالات متحده) به اجرای دقیق محاصره ایالات متحده علیه بنادر ایران ادامه می‌دهد. نیروهای آمریکایی اکنون جهت حرکت ۸۵ کشتی تجاری را برای تضمین پایبندی کامل تغییر داده‌اند.
+
+𝕏 · @shin_persian
+</div>
+
+## ManotoTV — post 105602
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105602_1779123829.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‌
+نهاد« مدیریت آبراه خلیج فارس» با راه‌اندازی حساب کاربری در شبکه ایکس اعلام کرد عبور کشتی‌ها از تنگه هرمز بدون دریافت مجوز از این نهاد «غیرقانونی» خواهد بود.
+
+این نهاد که با نام PGSA معرفی شده، در بیانیه‌ای نوشت تردد در محدوده‌های تعیین‌شده در تنگه هرمز باید با هماهنگی کامل با نیروهای مسلح و مقام‌های جمهوری اسلامی انجام شود.
+
+در این بیانیه آمده است: «عبور بدون مجوز، غیرقانونی تلقی خواهد شد.»
+</div>
+
+## FarsiVOA — post 218076
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+گفت‌و‌گو با آرش حسن‌نیا، روزنامه‌نگار اقتصادی، درباره تشدید بحران‌های معیشتی مردم در پی افزایش روزانه قیمت‌ها در ایران
+</div>
+
+## FarsiVOA — post 218075
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+در گفت‌وگو با مهرداد خوانساری، دیپلمات پیشین ایران در سازمان ملل متحد، به هشدار صریح دونالد ترامپ، بررسی گزینه‌های نظامی آمریکا، پایان عملیات «خشم حماسی»، و استراتژی جدید آمریکا و چین بر بازگشایی تنگه هرمز پرداختیم و پرسیدیم جمهوری اسلامی در این مرحله چه گزینه‌ای برای بقا دارد؟
+</div>
+
+## Persian_Trend_Official — post 14425
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_14425_1779123830.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وقتی یک مستندسازِ ورشکستهٔ سیاسی، سناریوی«ترور شخصیت دکتر #روحانی»را برای دیده‌شدن کارگردانی می‌کند،دیگر مستندساز نیست؛کاسبِ التهاب است. اتهام‌زنی با این ادبیات،نه شجاعت است نه افشاگری؛سقوط اخلاقیِ کسی‌ است که روزی تاریخ شفاهی می‌ساخت و امروز برای دیده‌شدن، تاریخ را تحریف می‌کند.
+
+کامبیز مهدیزاده داماد حسن روحانی !
+
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## IranianMinds — post 20354
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ما و جمهوری اسلامی، دوتا هستیم و یکی نخواهیم شد.
+سعی بر این است که توسط ابزاری چون “ وحشت از لولوی خارجی ( دشمن ) “ مردم و حکومت را یکی و یکپارچه کنند.
+بله وطن ، پایگاه و خانه ای مشترک و کارخانه ای وحدت ساز است اما نه بین مردم و حکومت. ما و این حکومت، هیچ وجه اشتراکی باهم نداریم.
+ما و رژیم جمهوری اسلامی، دوتا ایم.
+</div>
+
+## IranianMinds — post 20353
+
+<div align="center">
+  <img src="telegram/content/IranianMinds_20353_1779123830.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴وزیر خزانه‌داری ایالات متحده، مجوزی ۳۰ روزه صادر کرد که به کشورهای آسیب‌پذیر اجازه می‌دهد نفت روسیه‌ای را که در دریا سرگردان مانده است خریداری کنند.
+@IranianMinds
+</div>
+
+## BBCPersian — post 281387
+
+<div align="center">
+  <img src="telegram/content/BBCPersian_281387_1779123831.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻سازمان جهانی کار وابسته به سازمان ملل متحد هشدار داد که جنگ در خاورمیانه بر دستمزدها و شرایط کاری تاثیر منفی خواهد داشت و این تاثیر بسیار فراتر از مناطق درگیر جنگ خواهد بود. سازمان جهانی کار اعلام کرد که خاورمیانه و کشورهای حوزه خلیج فارس و منطقه آسیا و اقیانوسیه بیشترین آسیب را خواهند دید که می‌تواند از دوران همه‌گیری کرونا بدتر باشد.
+
+سانگ هورن لی،‌ اقتصاددان ارشد سازمان جهانی کار و نویسنده این گزارش، گفت: «بحران خاورمیانه، فراتر از خسارت انسانی،‌ یک اختلال کوتاه مدت نیست و می‌تواند اثرات طولانی‌مدت داشته باشد که به‌تدریج به تغییر شکل بازارهای کار منجر شود.»
+
+سازمان جهانی کار در گزارشی که امروز منتشر کرد، پیش‌بینی کرد که این جنگ ممکن است به قیمت از دست رفتن میلیون‌ها شغل تمام شود و دنیا شاهد کاهش دستمزد در ادامه امسال و سال آینده میلادی خواهد بود به‌ویژه برای مهاجرانی که به کشورهای خودشان پول می‌فرستند از جمله در جنوب و جنوب شرقی آسیا.
+
+
+ادامه خبر را از لینک زیر در وبسایت بی‌بی‌سی فارسی بخوانید.
+
+📷 EPA
+https://bbc.in/4diJ6bZ
+@BBCPersian
+</div>
+
+## manototv — post 105602
+
+<div align="center">
+  <a href="telegram/content/manototv_105602_1779123831.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‌
+نهاد« مدیریت آبراه خلیج فارس» با راه‌اندازی حساب کاربری در شبکه ایکس اعلام کرد عبور کشتی‌ها از تنگه هرمز بدون دریافت مجوز از این نهاد «غیرقانونی» خواهد بود.
+
+این نهاد که با نام PGSA معرفی شده، در بیانیه‌ای نوشت تردد در محدوده‌های تعیین‌شده در تنگه هرمز باید با هماهنگی کامل با نیروهای مسلح و مقام‌های جمهوری اسلامی انجام شود.
+
+در این بیانیه آمده است: «عبور بدون مجوز، غیرقانونی تلقی خواهد شد.»
+</div>
+
+## alonews — post 120917
+
+<div align="center">
+  <a href="telegram/content/alonews_120917_1779123832.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈شاخص صف پمپ بنزین تو ایران رفت بالا
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 120916
+
+<div align="center">
+  <a href="telegram/content/alonews_120916_1779123832.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈آخرین قیمت نفت ۱۱۱.۱۰ دلار
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/28 20:23
 ---
 
