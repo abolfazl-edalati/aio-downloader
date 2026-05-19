@@ -7,6 +7,264 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/30 01:52
+---
+
+## VahidOOnLine — post 241059
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_241059_1779229371.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️جورجیا ملونی، نخست‌وزیر ایتالیا،  سه‌شنبه شب ۲۹ اردیبهشت با انتشار تصویری در شبکه اجتماعی ایکس، از حضورنارندرا مودی، نخست‌وزیر هند در رم خبر داد و نوشت :«دوست من به رم خوشامدی».
+ نخست‌وزیر هند برای شرکت در گفتگوهای دوجانبه و رایزنی درباره همکاری‌های اقتصادی، سیاسی و مسائل بین‌المللی به ایتالیا سفر کرده است. این دیدار همچنین در چارچوب تقویت روابط میان دهلی‌نو و رم و هماهنگی در موضوعات جهانی از جمله انرژی و امنیت منطقه‌ای ارزیابی می‌شود.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## WithYashar — post 11713
+
+<div align="center">
+  <a href="telegram/content/WithYashar_11713_1779229372.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎬 Video
+</div>
+
+## WithYashar — post 11712
+
+
+
+
+## WithYashar — post 11711
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+چه طوفانی میاد تهران
+پشمام ریخته
+</div>
+
+## FarsiVOA — post 218191
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️حضور زنانی با پوشش اختیاری در تجمعات حکومتی در ایران؛ گفت‌وگو با نعیمه دوستدار
+@FarsiVOA
+</div>
+
+## FarsiVOA — post 218190
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️پوشش ویژه | گفت‌وگوی رئیس جمهوری آمریکا با خبرنگاران؛ ترامپ: بسیاری از رهبران رژیم از بین رفته‌اند
+@FarsiVOA
+</div>
+
+## FarsiVOA — post 218189
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔺جی‌دی ونس: در مذاکرات با جمهوری اسلامی پیشرفت حاصل شده اما واشنگتن برای ادامه اقدام نظامی آماده است
+
+▪️جی‌دی ونس، معاون رئیس‌جمهوری آمریکا، روز سه‌شنبه ۲۹ اردیبهشت در کاخ سفید در یک کنفرانس خبری درباره ایران صحبت کرد و گفت رئیس‌جمهوری آمریکا، دونالد ترامپ، همچنان پیگیر دیپلماسی با رژیم ایران است اما برای از سرگیری حملات نظامی در صورت شکست مذاکرات هسته‌ای آماده است.
+
+⬇️ بیشتر بخوانید:
+https://ir.voanews.com/a/8151754.html
+@FarsiVOA
+</div>
+
+## Persian_Trend_Official — post 14501
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 سنای آمریکا طرح محدودسازی اختیارات جنگی ترامپ علیه ایران را تصویب کرد 💢سنای آمریکا پس از ۷ تلاش ناموفق، طرحی را تصویب کرد که بر اساس آن ادامه هرگونه اقدام نظامی علیه ایران نیازمند مجوز کنگره خواهد بود. ▪️ این طرح با رأی ۵۰ موافق در برابر ۴۷ مخالف تصویب…
+</div>
+
+## IranianMinds — post 20413
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 مجلس سنای آمریکا بلاخره بعد از ۷ دور رای به محدود کردن اختیارات جنگی ترامپ داد.
+
+برای اینکه کامل تصویب بشه باید در کنگره هم رای گیری بشه.
+
+@IranianMinds
+</div>
+
+## BBCPersian — post 281547
+
+<div align="center">
+  <img src="telegram/content/BBCPersian_281547_1779229372.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻دریاسالار برد کوپر، فرمانده ستاد فرماندهی مرکزی آمریکا (سنتکام) در برابر کنگره این کشور شهادت داد که تحقیقات ارتش آمریکا درباره انفجار در یک مدرسه ای در میناب در جنوب در ایران «پیچیده» است.
+
+او گفت که این محل در یک سایت فعال موشک‌های کروز ایران قرار داشته است.
+
+خبرگزاری رویترز پیشتر گزارش داده بود که یک بررسی اولیه داخلی در ارتش آمریکا نشان داده است که احتمالاً نیروهای آمریکایی مسئول تخریب این مدرسه بوده‌اند.
+
+پنتاگون از آن زمان سطح این تحقیقات را ارتقا داده است.
+
+این حمله موشکی در نهم اسفند (۲۸ فوریه،) اولین روز جنگ، رخ داد و به گفته مقام‌های ایرانی، در نتیجه آن ۱۶۸ نفر از دانش آموزان، معلمان و چند نفر از والدین کشته شدند.
+
+بنابر آمار رسمی ایران، ۱۲۰ نفر از جان باختگان این حمله موشکی دانش‌آموزان دبستانی بودند.
+
+مقام‌های آمریکایی تاکنون نقش داشتن نیروهای این کشور در این حمله را تکذیب نکرده‌اند اما می‌گویند درباره چگونگی شکل‌گیری این حمله و دلایل بروز اشتباهات احتمالی، در حال تحقیقاتی هستند که اکنون فرمانده سنتکام آن را «پیچیده» خوانده است.
+
+📸REUTERS
+https://bbc.in/4fvV8Qw
+@BBCPersian
+</div>
+
+## Dirty_Kids — post 389786
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389786_1779229373.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+☢️خفن ترین و‌ قدیمی ترین  انالیزور  ایران ینی دکتر بت 
+👍 
+🔴هیچ سایت بتی دوست نداره شما کانال دکتر بت رو پیدا کنین چون خیلی سود میکنید🤷‍♂ رایگان بهترین شرط هارو براتون میذاره حتی هزار تومن هم دریافت نمیکنه روزانه میتونی از پیش بینی فوتبال باهاش پول در بیاری…
+</div>
+
+## Dirty_Kids — post 389785
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389785_1779229373.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+☢️خفن ترین و‌ قدیمی ترین  انالیزور  ایران ینی دکتر بت 
+👍
+
+
+🔴هیچ سایت بتی دوست نداره شما کانال دکتر بت رو پیدا کنین چون خیلی سود میکنید🤷‍♂
+
+رایگان بهترین شرط هارو براتون میذاره
+حتی هزار تومن هم دریافت نمیکنه
+روزانه میتونی از پیش بینی فوتبال باهاش پول در بیاری 👌
+A29
+اگ اهل پیش بینی فوتبالی این کانال اصلا از دست ندین👇
+
+✅https://t.me/+4_ADqwB9e-QwYjlk
+
+✅https://t.me/+4_ADqwB9e-QwYjlk
+</div>
+
+## Dirty_Kids — post 389784
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389784_1779229374.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+#بخوابیم
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389783
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389783_1779229374.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+به فیفا بگید ایران فقط و فقط یه پرچم داره.
+اونم پرچم شیروخورشید هست...
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389782
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پژمان جمشیدی به «اتهام تجاوز» به ۹۹ ضربه شلاق تعزیری محکوم شد!
+
+سؤال ساده: اگر بی‌گناه است، شلاق چه معنایی دارد؟ و اگر واقعاً تجاوز کرده، ۹۹ ضربه شلاق( آن هم تعزیری) تمام مجازات اوست؟!
+
+این تناقض عجیب «عدالت» ما را به خوبی نشان می‌دهد.
+
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389781
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389781_1779229374.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بزرگوار رو مجله پلی بوی سجده میکرده
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389780
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389780_1779229374.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اهدای عضو اهدای زندگی
+
+این جوان ال‌جی‌بی‌تی عضوش را به مجتبی خامنه‌ای اهدا کرد
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389779
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389779_1779229376.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+هم شعار سیاسی میدیم
+هم فحشتون میدیم
+هم پرچم شیر و خورشید میاریم تو ورزشگاه
+هم کون‌تون میزاریم
+هم پرچم خرچنگ نشان نظام آفتابه‌ایی جرررر میدیم
+تخم حروم فکر کردی آمریکا و کانادا طویله اعراب که زد بند کنید
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389778
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389778_1779229378.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اینجا نه کربلاست، نه بغداد، نه لندن
+متاسفانه مشهده و شاهد جولان عراقیا و نیروهای حشدالشعبی در سطح شهر هستیم
+
+
+@Dirty_Kids 👻
+</div>
+
+## alonews — post 121193
+
+<div align="center">
+  <a href="telegram/content/alonews_121193_1779229379.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ: آمریکا ممکن است دوباره به ایران حمله کند، اما تهران خواهان توافق است
+
+
+🔴ترامپ گفت ایالات متحده ممکن است بار دیگر ایران را هدف حمله قرار دهد و افزود تنها یک ساعت تا صدور دستور حمله فاصله داشته، اما تصمیم گرفته آن را به تعویق بیندازد.
+
+🔴ترامپ همچنین گفت که که مقام‌های ایرانی خواهان دستیابی به توافق هستند، اما هشدار داد اگر توافقی حاصل نشود، حمله جدید آمریکا ممکن است ظرف چند روز آینده انجام شود
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/30 01:42
 ---
 
