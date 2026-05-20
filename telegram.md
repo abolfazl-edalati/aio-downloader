@@ -7,6 +7,133 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/30 19:53
+---
+
+## VahidOOnLine — post 241178
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_241178_1779294227.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️جوان اهل شهرک اکباتان تهران که در ارتباط با پرونده قتل یک بسیجی به نام آرمان علی‌وردی بازداشت شده بودند، از قتل عمد تبرئه شده و حکم اعدام دریافت نکردند.
+
+خبرگزاری فارس روز چهارشنبه ۳۰ اردیبهشت اعلام کرد که شعبه ۱۳ دادگاه کیفری یک استان تهران که پیش‌تر حکم اعدام این شش جوان را صادر کرده بود، پس از نقض حکم در دیوان عالی، این بار با استناد به این‌که مشخص نیست ضربه منجر به کشته شدن علی‌وردی از سوی کدام‌یک از متهمان وارد شده، میلاد آرمون، علیرضا کفایی و امیرمحمد خوش‌اقبال را به اتهام «مشارکت در قتل عمد» به پرداخت دیه کامل و تحمل پنج سال حبس محکوم کرد. بر اساس این رای، علیرضا برمرزپورناک، حسین نعمتی و نوید نجاران نیز به دلیل این‌که مدرکی که ثابت کند ضربه‌ای به بدن آرمان علی‌وردی وارده کرده‌اند وجود نداشت، تبرئه شدند.
+
+بر اساس فقه اسلامی در صدور حکم قصاص برای قتل، فقط شخصی که ضربه کشنده را وارد کرده می‌تواند با خواست اولیای دم قصاص شود. بر این اساس در صورتی که مشخص نشود ضربه کشنده دقیقا توسط چه کسی وارد شده، امکان صدور حکم قصاص وجود ندارد.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 241177
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_241177_1779294227.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+قیمت نفت، چهارشنبه ۳۰ اردیبهشت پس از اظهارات خوش‌بینانه دونالد ترامپ درباره مذاکرات با جمهوری اسلامی بیش از پنج درصد کاهش یافت.
+
+بهای نفت برنت به ۱۰۵ دلار و ۷۰ سنت رسید؛ زیرا معامله‌گران به نشانه‌هایی واکنش نشان دادند که حاکی از نزدیک‌تر شدن واشینگتن و تهران به توافقی است که می‌تواند از دور تازه حملات جلوگیری کند و نگرانی‌ها درباره اختلال طولانی‌مدت عرضه در خاورمیانه را کاهش دهد.
+
+ترامپ گفت مذاکرات با جمهوری اسلامی در «مراحل نهایی» قرار دارد، اما هشدار داد اگر تهران با توافق صلح موافقت نکند، آمریکا ممکن است حملات بیشتری انجام دهد.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 241176
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_241176_1779294228.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ گفت: «تنها سوال درباره ایران این است که آیا ما کار را تمام می‌کنیم یا آن‌ها سند را امضا می‌کنند.»
+او پیش‌تر نیز درباره توافق با جمهوری اسلامی و موضوع تنگه هرمز گفت: «ما یک فرصت به این موضوع می‌دهیم. عجله‌ای ندارم. نمی‌خواهم افراد زیادی کشته شوند؛ ترجیح می‌دهم تعداد کمی کشته شوند.»
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## FoxNewsTwitter — post 342003
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_342003_1779294229.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+JUST NOW: The Crowd erupts with laughter after President Trump jokes he "hates good looking men," inviting the "top of the class" cadet to join him on stage during his commencement speech at the Coast Guard Academy.
+</div>
+
+## IranIntlTV — post 338111
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_338111_1779294231.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+در حالی که رسانه عربی الحدث مدعی شده فرمانده ارتش پاکستان ممکن است فردا برای اعلام نهایی شدن متن توافق به ایران سفر کند، سپاه پاسداران با صدور بیانیه‌ای تهدید کرد در صورت حمله دوباره آمریکا و اسرائیل، جنگ را به فراتر از منطقه خواهد کشاند.
+
+گزارشی از مجتبا پورمحسن
+@iranintltv
+</div>
+
+## IranIntlTV — post 338110
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_338110_1779294233.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+قیمت نفت، چهارشنبه ۳۰ اردیبهشت پس از اظهارات خوش‌بینانه دونالد ترامپ درباره مذاکرات با جمهوری اسلامی بیش از پنج درصد کاهش یافت.
+
+بهای نفت برنت به ۱۰۵ دلار و ۷۰ سنت رسید؛ زیرا معامله‌گران به نشانه‌هایی واکنش نشان دادند که حاکی از نزدیک‌تر شدن واشینگتن و تهران به توافقی است که می‌تواند از دور تازه حملات جلوگیری کند و نگرانی‌ها درباره اختلال طولانی‌مدت عرضه در خاورمیانه را کاهش دهد.
+
+ترامپ گفت مذاکرات با جمهوری اسلامی در «مراحل نهایی» قرار دارد، اما هشدار داد اگر تهران با توافق صلح موافقت نکند، آمریکا ممکن است حملات بیشتری انجام دهد.
+https://iranintl.com/202605203209
+</div>
+
+## IranIntlTV — post 338109
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_338109_1779294233.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ گفت جمهوری اسلامی فرصت چندانی برای توافق ندارد.
+
+او افزود وضعیت مردم در ایران خوب نیست و خشم بزرگی از جمهوری اسلامی وجود دارد.
+
+گفت‌وگو با جمشید برزگر، روزنامه‌نگار و تحلیل‌گر سیاسی
+@iranintltv
+</div>
+
+## alonews — post 121359
+
+<div align="center">
+  <a href="telegram/content/alonews_121359_1779294235.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ : صنعت تراشه ما توسط تایوان برداشته شد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 121357
+
+<div align="center">
+  <a href="telegram/content/alonews_121357_1779294237.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ بعد از دست دادن با یکی از دانشجوهای نظامی:
+
+
+🔴از مردای خوشتیپ بدم میاد.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/30 19:44
 ---
 
