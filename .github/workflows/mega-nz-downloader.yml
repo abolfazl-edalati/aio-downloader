@@ -14,7 +14,7 @@ on:
         default: false
       upload_method:
         description: >
-          Upload method:
+          Upload method (ignored if "Upload to Google Drive" is checked):
           - "split_push": split ZIPs into 99MB parts & push to repo (default)
           - "release": create a GitHub Release & upload ZIPs. ZIPs larger than 1950 MB are automatically split.
             **Note:** GitHub Release assets are limited to 2 GB per file.
@@ -24,6 +24,10 @@ on:
           - split_push
           - release
         default: split_push
+      upload_to_drive:                                 # ← NEW INPUT
+        description: 'Upload files to Google Drive instead (folder: github-actions)'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -64,6 +68,14 @@ jobs:
         run: |
           BUNDLE_ALL="${{ github.event.inputs.bundle_all }}"
           UPLOAD_METHOD="${{ github.event.inputs.upload_method }}"
+          UPLOAD_TO_DRIVE="${{ github.event.inputs.upload_to_drive }}"
+
+          # Determine ZIP strategy: Drive uses unsplit (like release) unless >1950 MiB
+          if [ "$UPLOAD_TO_DRIVE" = "true" ] || [ "$UPLOAD_METHOD" = "release" ]; then
+            METHOD="release"
+          else
+            METHOD="split_push"
+          fi
 
           OUTPUT_DIR="mega-nz"
           rm -rf "$OUTPUT_DIR"
@@ -98,6 +110,7 @@ jobs:
               continue
             fi
 
+            # Flatten directory structure (megatools may create subfolders)
             find "$DL_DIR" -mindepth 2 -type f -exec mv {} "$DL_DIR/" \; 2>/dev/null || true
             find "$DL_DIR" -mindepth 1 -type d -empty -delete 2>/dev/null || true
 
@@ -134,7 +147,7 @@ jobs:
                 mkdir -p "$TMPZIP"
                 cp "$DL_FILE" "$TMPZIP/"
 
-                if [ "$UPLOAD_METHOD" = "release" ]; then
+                if [ "$METHOD" = "release" ]; then
                   # Create unsplit ZIP first
                   (cd "$TMPZIP" && zip "../${OUTPUT_DIR}/${ZIP_NAME}" "$fname")
                   FULLZIP="${OUTPUT_DIR}/${ZIP_NAME}"
@@ -167,7 +180,7 @@ jobs:
             RAND_BUNDLE=$(tr -dc 'a-z' </dev/urandom | head -c5)
             BUNDLE_ZIP="bundle_${RAND_BUNDLE}.zip"
             echo "Creating bundle: $BUNDLE_ZIP"
-            if [ "$UPLOAD_METHOD" = "release" ]; then
+            if [ "$METHOD" = "release" ]; then
               (cd "$BUNDLE_DIR" && zip "../${OUTPUT_DIR}/${BUNDLE_ZIP}" *)
               FULLBUNDLE="${OUTPUT_DIR}/${BUNDLE_ZIP}"
               SIZE=$(stat -c%s "$FULLBUNDLE" 2>/dev/null || echo 0)
@@ -188,8 +201,88 @@ jobs:
           echo "Assets to upload:"
           cat "${OUTPUT_DIR}_assets.txt"
 
+      # ────────────────────────────────────────────────────────
+      # GOOGLE DRIVE UPLOAD
+      # ────────────────────────────────────────────────────────
+      - name: "Upload to Google Drive"
+        if: inputs.upload_to_drive == 'true'
+        env:
+          CLIENT_ID:     ${{ secrets.GOOGLE_CLIENT_ID }}
+          CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
+          REFRESH_TOKEN: ${{ secrets.GOOGLE_REFRESH_TOKEN }}
+        run: |
+          # 1. Obtain access token
+          ACCESS_TOKEN=$(curl -s -X POST https://oauth2.googleapis.com/token \
+            -d client_id="$CLIENT_ID" \
+            -d client_secret="$CLIENT_SECRET" \
+            -d refresh_token="$REFRESH_TOKEN" \
+            -d grant_type=refresh_token | jq -r '.access_token')
+          if [ -z "$ACCESS_TOKEN" ] || [ "$ACCESS_TOKEN" = "null" ]; then
+            echo "❌ Failed to obtain access token"
+            exit 1
+          fi
+
+          # 2. Find or create 'github-actions' folder
+          FOLDER_NAME="github-actions"
+          QUERY="mimeType='application/vnd.google-apps.folder' and name='$FOLDER_NAME' and trashed=false"
+          FOLDER_ID=$(curl -s -G \
+            -H "Authorization: Bearer $ACCESS_TOKEN" \
+            --data-urlencode "q=$QUERY" \
+            --data-urlencode "fields=files(id)" \
+            "https://www.googleapis.com/drive/v3/files" | jq -r '.files[0].id // ""')
+          if [ -z "$FOLDER_ID" ]; then
+            echo "→ Creating folder '$FOLDER_NAME'"
+            FOLDER_ID=$(curl -s -X POST \
+              -H "Authorization: Bearer $ACCESS_TOKEN" \
+              -H "Content-Type: application/json" \
+              -d "{\"name\":\"$FOLDER_NAME\", \"mimeType\":\"application/vnd.google-apps.folder\"}" \
+              "https://www.googleapis.com/drive/v3/files?fields=id" | jq -r '.id')
+            if [ -z "$FOLDER_ID" ] || [ "$FOLDER_ID" = "null" ]; then
+              echo "❌ Failed to create folder"
+              exit 1
+            fi
+          fi
+          echo "✅ Folder ID: $FOLDER_ID"
+
+          OUTPUT_DIR="mega-nz"
+          for file in "$OUTPUT_DIR"/*; do
+            [ -f "$file" ] || continue
+            fname=$(basename "$file")
+            size=$(stat -c%s "$file")
+            echo "→ Uploading $fname ($size bytes)..."
+
+            # Initiate resumable upload session
+            SESSION_URI=$(curl -s -X POST \
+              -H "Authorization: Bearer $ACCESS_TOKEN" \
+              -H "Content-Type: application/json; charset=UTF-8" \
+              -H "X-Upload-Content-Type: application/zip" \
+              -d "{\"name\":\"$fname\", \"parents\":[\"$FOLDER_ID\"]}" \
+              "https://www.googleapis.com/upload/drive/v3/files?uploadType=resumable" \
+              -D - | tr -d '\r' | grep -i '^location:' | sed 's/^location: //i' | tr -d ' ')
+            if [ -z "$SESSION_URI" ]; then
+              echo "❌ Failed to initiate upload session for $fname, skipping"
+              continue
+            fi
+
+            # Upload the entire file in one chunk
+            HTTP_CODE=$(curl -s -o /dev/null -w "%{http_code}" -X PUT \
+              -H "Authorization: Bearer $ACCESS_TOKEN" \
+              -H "Content-Length: $size" \
+              -H "Content-Range: bytes 0-$((size-1))/$size" \
+              --data-binary "@$file" \
+              "$SESSION_URI")
+            if [ "$HTTP_CODE" -eq 200 ] || [ "$HTTP_CODE" -eq 201 ]; then
+              echo "✅ Uploaded $fname"
+            else
+              echo "❌ Upload failed with HTTP $HTTP_CODE"
+            fi
+          done
+
+      # ────────────────────────────────────────────────────────
+      # EXISTING UPLOAD METHODS (skipped if Drive is chosen)
+      # ────────────────────────────────────────────────────────
       - name: Upload to repository (split_push method)
-        if: ${{ github.event.inputs.upload_method == 'split_push' }}
+        if: ${{ inputs.upload_to_drive == 'false' && github.event.inputs.upload_method == 'split_push' }}
         env:
           BRANCH: ${{ github.ref_name }}
         run: |
@@ -220,7 +313,7 @@ jobs:
           done
 
       - name: Create Release and upload assets (release method)
-        if: ${{ github.event.inputs.upload_method == 'release' }}
+        if: ${{ inputs.upload_to_drive == 'false' && github.event.inputs.upload_method == 'release' }}
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
