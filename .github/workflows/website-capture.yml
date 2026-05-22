@@ -100,7 +100,6 @@ jobs:
         id: archive
         run: |
           UPLOAD_METHOD="${{ inputs.upload_method }}"
-          ...
           if [ "$UPLOAD_METHOD" = "repo" ]; then
             METHOD="split_push"
           else
