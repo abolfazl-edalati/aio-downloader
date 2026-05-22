@@ -7,6 +7,169 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/01 14:13
+---
+
+## WithYashar — post 11937
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اتحادیه اروپا: به دلیل بسته ماندن تنگه هرمز، تحریم‌های جدیدی علیه ایران وضع کرديم.
+@withyashar
+</div>
+
+## IranIntlTV — post 338393
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_338393_1779446606.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سرخط خبرهای جمعه ۱ خرداد
+@iranintltv
+</div>
+
+## Persian_Trend_Official — post 14658
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_14658_1779446608.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️عبور 35 کشتی با هماهنگی نیروی دریایی سپاه از تنگهٔ هرمز
+
+💢نیروی دریایی سپاه: در شبانه‌روز گذشته 35 کشتی اعم از نفتکش، کانتینربر و سایر کشتی های تجاری پس از کسب مجوز با هماهنگی و تامین امنیت نیروی دریایی سپاه از تنگهٔ هرمز عبور کردند.
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## Persian_Trend_Official — post 14657
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_14657_1779446609.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️ پزشکیان:
+
+💢 با استفاده از ظرفیت فضای مجازی می‌توان واقعیت‌ها را به مردم منتقل کرد؛ رسانه‌های صهیونیستی اجازه نمی‌دهند افکار عمومی واقعیت‌ها را ببیند
+
+💢 وی با تأکید بر نقش روابط عمومی‌ها در افزایش آگاهی عمومی گفت: با استفاده از ظرفیت فضای مجازی، روابط عمومی‌ها می‌توانند واقعیت‌ها را به مردم منتقل کنند؛ چراکه رسانه‌های صهیونیستی اجازه دیدن واقعیت‌ها را به افکار عمومی نمی‌دهند.
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## IranianMinds — post 20527
+
+<div align="center">
+  <img src="telegram/content/IranianMinds_20527_1779446609.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ترامپ:
+
+«کولبرت بالاخره از CBS کنار رفت. شگفت‌انگیزه که این‌قدر دوام آورد! هیچ استعداد، هیچ رتبه‌بندی، هیچ زندگی. مثل یک مرده بود.
+
+می‌شد هر کسی رو از خیابون بیاری و بهتر از این آدم مزخرف بود. خدا رو شکر که بالاخره رفت!»
+
+@IranianMinds
+</div>
+
+## BBCPersian — post 281782
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻سپاه: ۳۵ کشتی در شبانه‌روز گذشته با هماهنگی نیروی دریایی سپاه از تنگه هرمز عبور کردند
+
+سپاه پاسداران می‌گوید با هماهنگی صورت گرفته با نیروی دریایی‌اش «طی شبانه روز گذشته ۳۵ فروند کشتی اعم از نفتکش، کانتینربر و سایر کشتی‌های تجاری پس از کسب مجوز» از تنگه هرمز عبور کرده‌اند.
+
+روابط عمومی سپاه در اطلاعیه‌اش گفته «نیروی دریایی سپاه یک آبراه ایمن برای کشتیرانی و استمرار تجارت جهانی ایجاد» کرده است.
+
+روز گذشته نهاد مدیریت آبراه خلیج‌فارس که توسط جمهوری اسلامی ایجاد شده با انتشار نقشه‌ای «محدوده نظارتی مدیریت تنگه هرمز» را اعلام کرد.
+
+طبق این اعلام، این محدوده از «خط اتصال کوه مبارک در ایران و جنوب فجیره در امارات در شرق تنگه» تا «خط اتصال انتهای جزیره قشم در ایران و ام‌القیوین در امارات در غرب تنگه» تعریف شده است.
+
+https://bbc.in/4v3pH4G
+@BBCPersian
+</div>
+
+## Dirty_Kids — post 389933
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389933_1779446610.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+این کسیه که بهش اس‌ام‌اس دادید خشخاش نکاره
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389932
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+هیتلر سقوط کرد شما چقدر بد سقوط‌اید جاکشا
+
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389930
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389930_1779446611.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+به «چشم کوری» ترامپ امشب آره!
+
+
+@Dirty_Kids 👻
+</div>
+
+## alonews — post 121749
+
+<div align="center">
+  <a href="telegram/content/alonews_121749_1779446613.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ از طریق Truth Social: کولبرت بالاخره در CBS تمام شد. شگفت‌آور است که این همه دوام آورد! هیچ استعدادی، هیچ رتبه‌ای، هیچ زندگی‌ای نداشت. او مثل یک مرده بود.
+
+
+🔴می‌توانستید هر کسی را از خیابان بردارید و بهتر از این آدم بی‌ادب باشد. خدا را شکر که بالاخره رفت!
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 121748
+
+<div align="center">
+  <a href="telegram/content/alonews_121748_1779446613.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈تصاویری از آخرین وضعیت تنگهٔ هرمز و کنترل آن توسط ایران
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 121747
+
+<div align="center">
+  <a href="telegram/content/alonews_121747_1779446616.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈طبق داده‌های دولتی ژاپن، صادرات خودروهای ژاپنی به خاورمیانه در آوریل به دلیل اختلال در مسیرهای کشتیرانی ناشی از جنگ علیه ایران، بیش از ۹۰ درصد کاهش یافته و تقریباً به صفر رسیده است.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/03/01 14:03
 ---
 
