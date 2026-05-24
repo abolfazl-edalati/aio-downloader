@@ -45,6 +45,7 @@ permissions:
 jobs:
   actions:
     runs-on: ubuntu-latest
+    timeout-minutes: 360
     permissions:
       contents: write
 
